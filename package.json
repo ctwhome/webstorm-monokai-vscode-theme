@@ -2,7 +2,7 @@
   "name": "webstorm-monokai",
   "displayName": "WebStorm Monokai",
   "description": "Highlighted Monokai theme for VSCode with WebStorm workspace colors",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "ctwhome",
   "website": "https://ctwhome.com",
   "repository": {
