@@ -1,6 +1,8 @@
 # WebStorm Monokai Theme for Visual Studio Code
 Highlighted Monokai theme for VSCode with WebStorm workspace colors
 
+Install here: https://marketplace.visualstudio.com/items?itemName=ctwhome.webstorm-monokai
+
 ![First Screen](theme-screenshot.png)
 
 ## Edit the theme
