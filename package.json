@@ -1,21 +1,47 @@
 {
-    "name": "monokai-ctw",
-    "displayName": "Monokai Ctw",
-    "description": "Perfect highlight monokai theme for VSCode with WebStorm workspace colors",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "WebStorm Monokai",
-                "uiTheme": "vs-dark",
-                "path": "./themes/WebStorm Monokai-color-theme.json"
-            }
-        ]
-    }
+  "name": "webstorm-monokai",
+  "displayName": "WebStorm Monokai",
+  "description": "Highlighted Monokai theme for VSCode with WebStorm workspace colors",
+  "version": "0.0.1",
+  "publisher": "ctwhome",
+  "website": "https://ctwhome.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctwhome/webstorm-monokai-vscode-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Light Theme",
+    "Night Owl",
+    "Night Theme",
+    "Light Owl",
+    "Snow Owl",
+    "Early Bird",
+    "Accessible Theme"
+  ],
+  "galleryBanner": {
+    "color": "#323232",
+    "theme": "dark"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "contributes": {
+    "themes": [
+      {
+        "label": "WebStorm Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/webStorm-monokai-color-theme.json"
+      }
+    ]
+  },
+  "icon": "theme-icon.png",
+  "scripts": {
+    "publish": "vsce publish"
+  }
 }
