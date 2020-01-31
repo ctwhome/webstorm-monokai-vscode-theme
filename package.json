@@ -2,7 +2,7 @@
     "name": "monokai-ctw",
     "displayName": "Monokai Ctw",
     "description": "Perfect highlight monokai theme for VSCode with WebStorm workspace colors",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "engines": {
         "vscode": "^1.41.0"
     },
