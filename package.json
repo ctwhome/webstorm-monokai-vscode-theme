@@ -1,0 +1,21 @@
+{
+    "name": "monokai-ctw",
+    "displayName": "Monokai Ctw",
+    "description": "Perfect highlight monokai theme for VSCode with WebStorm workspace colors",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "WebStorm Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/WebStorm Monokai-color-theme.json"
+            }
+        ]
+    }
+}
